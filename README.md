@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https:/iimg.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Digital-Storefront-E-Commerce/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Storefront-E-Commerce?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Storefront-E-Commerce/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Storefront-E-Commerce?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Storefront-E-Commerce/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Storefront-E-Commerce?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Storefront-E-Commerce/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Storefront-E-Commerce?style=flat-square&color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Storefront-E-Commerce/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Digital-Storefront-E-Commerce?style=flat-square" alt="License" /></a>
@@ -67,9 +67,9 @@ The industry exhibits a **moderately concentrated, winner-take-most oligopoly** 
 ## 💻 Open-Source GitHub Projects
 
 > [!TIP]
-> The table below lists top open-source storefronts, self-hosted shopping carts, and headless commerce engines, **sorted in descending order by GitHub Stars**. Every badge links directly to the project's stargazers page.
+> The table below lists top open-source storefronts, self-hosted shopping carts, and headless commerce engines, **sorted in descending order by GitHub_Stars**. Every badge links directly to the project's stargazers page.
 
-| 🛠️ Project | ⭐ GitHub Stars | 💡 Tech Stack | 📋 Description & Capabilities |
+| 🛠️ Project | ⭐ GitHub_Stars | 💡 Tech Stack | 📋 Description & Capabilities |
 |:---|:---|:---|:---|
 | **[Medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | Node.js / TypeScript | **The leading open-source headless commerce framework for JavaScript & TypeScript.** Modular architecture, REST APIs, zero GMV fees, customizable checkout flows, multi-currency routing, and plug-and-play integrations with Next.js and Remix. |
 | **[Bagisto](https://github.com/bagisto/bagisto)** | [![Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | PHP / Laravel | **Laravel-based headless e-commerce ecosystem.** Ships with a built-in admin dashboard, GraphQL API, multi-channel marketplace functionality, progressive web app (PWA) storefronts, and full internationalization. |
