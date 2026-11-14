@@ -15,20 +15,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global digital commerce software and storefront platform market is estimated at **$7B–$11B (2025–2026)**, projected to expand past **$15B–$30B by the early 2030s** at a CAGR of 10%–16%. The sector exhibits a **moderately concentrated, winner-take-most oligopoly** at the core SaaS/enterprise infrastructure tier (dominated by giants like Shopify, WooCommerce, and Adobe/Salesforce), but remains **highly fragmented** across long-tail merchant segments, regional specialized platforms, and open-source headless alternatives.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[Shopify](https://www.shopify.com/)** | Leading cloud commerce platform with 2M+ merchants. Plans include Basic ($29/mo), Grow ($79/mo), Advanced ($299/mo), and Plus (~$2,300+/mo custom). **Payment processing: 2.9% + 30¢ (Basic), 2.7% + 30¢ (Grow), 2.5% + 30¢ (Advanced) with Shopify Payments**. Using a third-party gateway adds **0.6%–2% extra** on top of the gateway's own fees [citation:6]. | Basic: **$29/month**; Grow: **$79/month**; Advanced: **$299/month** [citation:6] | Free trial available (varies by promotion); no permanent free tier |
-| **[BigCommerce](https://www.bigcommerce.com/)** | Open-SaaS commerce platform. Plans: **Core ($39/mo, $29 annual)**, **Growth ($105/mo, $79 annual)**, **Scale ($399/mo, $299 annual)**, and **Performance (custom, from $1,499/mo annual)**. **Open Payment Provider Fee applies on self-service plans**: 2.0% (Core), 1.0% (Growth), 0.6% (Scale) for orders processed through non-embedded gateways [citation:7]. | Core: **$39/month** ($29 annual); Growth: **$105/month** ($79 annual) [citation:7] | **15-day free trial**, no credit card required [citation:7] |
-| **[Wix eCommerce](https://www.wix.com/)** | Website builder with integrated commerce. Plans: **Core ($29/mo)**, **Business ($39/mo)**, **Business Elite ($159/mo)**. **Wix Payments processing: 2.9% + $0.30** (US, standard cards); 3.7% + $0.30 for Amex; 3.49% + $0.49 for PayPal [citation:8]. | Core: **$29/month**; Business: **$39/month** [citation:8] | Free plan available (no payments); paid plans include free domain for 1 year [citation:8] |
-| **[Ecwid](https://www.ecwid.com/)** | Embeddable shopping cart that adds e-commerce to any existing website. **Prices changed March 2, 2026**: Venture ($35/mo or $29/mo annual), Business ($65/mo or $49/mo annual), Unlimited ($149/mo or $119/mo annual) [citation:9]. | Venture: **$35/month** ($29 annual); Business: **$65/month** ($49 annual) [citation:9] | **Free plan** available (Starter, pricing unchanged) [citation:9] |
-| **[Zoho Commerce](https://www.zoho.com/commerce/)** | E-commerce platform within the Zoho ecosystem. **Standard, Professional, Premium, and Enterprise** tiers. **Zero transaction fees** on all paid plans. **Free hosting, unlimited bandwidth, custom domain** included [citation:5]. | Quote-only via Zoho pricing page (Standard/Grow/Professional/Premium tiers) [citation:5] | **14-day free trial**, no credit card required [citation:5] |
+| Product | Size (Revenue / Valuation) | Description | Starting Tier Pricing | Free Tier / Trial Plan Limits |
+|---------|----------------------------|-------------|-----------------------|-------------------------------|
+| **[Shopify](https://www.shopify.com/)** | ~$11.6B revenue / ~$195B–$270B market cap | Leading cloud commerce platform with 2M+ merchants. Payment processing: 2.9% + 30¢ (Basic), 2.7% + 30¢ (Grow), 2.5% + 30¢ (Advanced). Third-party payment gateways incur an extra 0.6%–2% transaction fee. | **$29/month** (Basic, billed annually at $29/mo or $39/mo monthly) | **3-day free trial** without credit card; trial is restricted from accepting live customer checkout/orders until a paid plan is selected (promotional $1/month extension for 3 months available) |
+| **[Zoho Commerce](https://www.zoho.com/commerce/)** | ~$1.4B revenue / ~$10B–$12.5B estimated valuation | E-commerce platform within the bootstrapped Zoho cloud ecosystem. Features zero platform transaction fees, free hosting, unlimited bandwidth, and custom domain support. | **$15/month** (Standard plan, billed annually at $15/mo or $22/mo monthly) | **14-day free trial** with full feature access and no credit card required; after 14 days, paid subscription required to keep store active |
+| **[Wix eCommerce](https://www.wix.com/)** | ~$1.99B revenue / ~$3.1B–$3.8B market cap | Drag-and-drop website builder with integrated commerce infrastructure. Wix Payments processing: 2.9% + 30¢ (standard US cards). | **$29/month** (Core plan, billed annually) | **Forever Free plan** available (limited to 500MB storage, 1GB bandwidth, Wix ads/URL), but **$0 online payment acceptance/checkout enabled** (14-day money-back trial on paid plans) |
+| **[Ecwid](https://www.ecwid.com/)** | ~$20M revenue / $500M acquisition valuation (Lightspeed) | Embeddable shopping cart widget and storefront builder that adds online store capabilities to any existing CMS or website. | **$5/month** (Starter plan) / **$29/month** (Venture plan billed annually, or $35/mo monthly) | **Forever Free / Starter tier** strictly limited to **up to 10 products**, Instant Site builder, and basic payment gateway support with no time limit |
+| **[BigCommerce](https://www.bigcommerce.com/)** | ~$342M revenue / ~$200M market cap | Open-SaaS commerce platform focused on mid-market and enterprise storefronts. Imposes an Open Payment Provider fee of 0.6%–2.0% on non-embedded gateways. | **$29/month** (Core plan billed annually at $29/mo, or $39/mo monthly) | **15-day free trial** with full platform capabilities, sandbox testing, and no credit card required; store pauses upon expiration unless upgraded |
 
 ## Open-Source GitHub Projects
 
